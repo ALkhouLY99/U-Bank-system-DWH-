@@ -12,10 +12,10 @@ SSAS (SQL Server Analysis Services): Provides multidimensional OLAP cubes, enabl
 Reporting & Visualizations: Leverages Power BI to create interactive, real-time reports and dashboards, offering detailed insights into transaction volumes, loan details, branch performance, and more.
 
 # Components
-SSIS (SQL Server Integration Services): Manages the ETL process, creating both dimension and fact tables (e.g., ATM Transactions Fact, Loan Fact).
-SSAS (SQL Server Analysis Services): Delivers powerful analytical capabilities, with OLAP cubes built on the data warehouse for multidimensional analysis.
-Power BI: Provides comprehensive reporting and visualization tools, enabling stakeholders to explore data through intuitive dashboards.
-Data Warehouse: Serves as a centralized repository for all transformed banking data, designed for fast querying and deep analysis.
+- SSIS (SQL Server Integration Services): Manages the ETL process, creating both dimension and fact tables (e.g., ATM Transactions Fact, Loan Fact).
+- SSAS (SQL Server Analysis Services): Delivers powerful analytical capabilities, with OLAP cubes built on the data warehouse for multidimensional analysis.
+- Power BI: Provides comprehensive reporting and visualization tools, enabling stakeholders to explore data through intuitive dashboards.
+- Data Warehouse: Serves as a centralized repository for all transformed banking data, designed for fast querying and deep analysis.
 
 # Objective
 This project aims to streamline the processing and analysis of large-scale banking data by integrating SSIS for ETL, SSAS for multidimensional analytics, and Power BI for reporting. It empowers banking professionals to make informed decisions based on real-time, accurate data insights.
