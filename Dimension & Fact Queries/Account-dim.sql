@@ -1,0 +1,7 @@
+SELECT[Customer ID]
+      ,[Account Number]
+      ,[Account Type]
+      ,[Balance]
+      ,[Status]
+      ,[Branch ID]
+  FROM [Union_Bank_OLTP].[dbo].[Account]

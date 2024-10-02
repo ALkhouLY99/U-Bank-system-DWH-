@@ -1,0 +1,5 @@
+SELECT [ATM ID]
+      ,[Location]
+      ,[ATM Status]
+      ,[Branch ID]
+  FROM [Union_Bank_OLTP].[dbo].[Atm]

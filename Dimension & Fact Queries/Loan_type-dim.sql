@@ -1,0 +1,11 @@
+SELECT DISTINCT
+-- [LoanID]
+      --,[Amount]
+      --,[Loan Months Terms]
+      --,[Start Date]
+      --,[End Date]
+      [Loan Type]
+      ,[Interest Rate] as [invest_rate_type_id-BK]
+      --,[Customer ID]
+      --,[Branch ID]
+  FROM [Union_Bank_OLTP].[dbo].[Loan]
