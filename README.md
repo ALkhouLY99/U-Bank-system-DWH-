@@ -5,11 +5,11 @@ This project demonstrates the development of an ETL (Extract, Transform, Load) p
 In addition to SSIS, the project integrates SQL Server Analysis Services (SSAS) to build multidimensional models and support advanced analytical queries. Power BI is then used to create dynamic dashboards and reports for visualizing key banking metrics.
 
 # Key Features
-Data Extraction: Pulls data from various banking systems, including transactional data, customer information, ATM activities, and loans.
-Data Transformation: Cleans, integrates, and organizes data according to business requirements.
-Data Loading: Efficiently loads the transformed data into a centralized data warehouse.
-SSAS (SQL Server Analysis Services): Provides multidimensional OLAP cubes, enabling advanced analytics and faster querying of large datasets.
-Reporting & Visualizations: Leverages Power BI to create interactive, real-time reports and dashboards, offering detailed insights into transaction volumes, loan details, branch performance, and more.
+- Data Extraction: Pulls data from various banking systems, including transactional data, customer information, ATM activities, and loans.
+-Data Transformation: Cleans, integrates, and organizes data according to business requirements.
+- Data Loading: Efficiently loads the transformed data into a centralized data warehouse.
+- SSAS (SQL Server Analysis Services): Provides multidimensional OLAP cubes, enabling advanced analytics and faster querying of large datasets.
+- Reporting & Visualizations: Leverages Power BI to create interactive, real-time reports and dashboards, offering detailed insights into transaction volumes, loan details, branch performance, and more.
 
 # Components
 - SSIS (SQL Server Integration Services): Manages the ETL process, creating both dimension and fact tables (e.g., ATM Transactions Fact, Loan Fact).
