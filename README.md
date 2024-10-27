@@ -3,7 +3,7 @@
 -> link chart interactive :
 https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Bank_ETL.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1vSpeqAFZoWF5tq2byEBfDBueAwXzb-ok%26export%3Ddownload
 
-![Bank_ETL drawio](https://github.com/user-attachments/assets/9be44bc7-892c-47a9-910b-8ee0ed49eb0f)
+![Animation](https://github.com/user-attachments/assets/0709ddc5-51b9-4ce7-8ef4-b840d387767b)
 
 # Overview
 This project demonstrates the development of an ETL (Extract, Transform, Load) pipeline for a banking system using SQL Server Integration Services (SSIS). It extracts data from multiple banking sources, transforms it according to business rules, and loads it into a data warehouse for analysis and reporting.
@@ -24,4 +24,3 @@ In addition to SSIS, the project integrates SQL Server Analysis Services (SSAS) 
 
 # Objective
 This project aims to streamline the processing and analysis of large-scale banking data by integrating SSIS for ETL, SSAS for multidimensional analytics, and Power BI for reporting. It empowers banking professionals to make informed decisions based on real-time, accurate data insights.
-![Animation - 1730044324037 (1)](https://github.com/user-attachments/assets/8bccccaf-ce1f-4348-bd25-8b4a43bca4f4)   ![Animation - 1730040578788](https://github.com/user-attachments/assets/7b330d2d-65da-4908-8812-39b713312639)
