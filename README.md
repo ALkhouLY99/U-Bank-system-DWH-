@@ -24,4 +24,4 @@ In addition to SSIS, the project integrates SQL Server Analysis Services (SSAS) 
 
 # Objective
 This project aims to streamline the processing and analysis of large-scale banking data by integrating SSIS for ETL, SSAS for multidimensional analytics, and Power BI for reporting. It empowers banking professionals to make informed decisions based on real-time, accurate data insights.
-![Animation - 1730044324037 (1)](https://github.com/user-attachments/assets/8bccccaf-ce1f-4348-bd25-8b4a43bca4f4)                        ![Animation - 1730040578788](https://github.com/user-attachments/assets/7b330d2d-65da-4908-8812-39b713312639)
+![Animation - 1730044324037 (1)](https://github.com/user-attachments/assets/8bccccaf-ce1f-4348-bd25-8b4a43bca4f4)   ![Animation - 1730040578788](https://github.com/user-attachments/assets/7b330d2d-65da-4908-8812-39b713312639)
