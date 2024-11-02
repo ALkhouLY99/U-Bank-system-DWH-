@@ -1,8 +1,5 @@
 # ETL Pipeline for Banking System with SSIS, SSAS, and Power BI
 ----
--> link chart interactive :
-https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Bank_ETL.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1vSpeqAFZoWF5tq2byEBfDBueAwXzb-ok%26export%3Ddownload
-
 ![Animation](https://github.com/user-attachments/assets/0709ddc5-51b9-4ce7-8ef4-b840d387767b)
 
 # Overview
