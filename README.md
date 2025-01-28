@@ -1,6 +1,7 @@
 # ETL Pipeline for Banking System with SSIS, SSAS, and Power BI
 ----
 ![Animation](https://github.com/user-attachments/assets/0709ddc5-51b9-4ce7-8ef4-b840d387767b)
+![Image](https://github.com/user-attachments/assets/f9770e76-bb42-424f-bcdf-da496a6d55d8)
 
 # Overview
 This project demonstrates the development of an ETL (Extract, Transform, Load) pipeline for a banking system using SQL Server Integration Services (SSIS). It extracts data from multiple banking sources, transforms it according to business rules, and loads it into a data warehouse for analysis and reporting.
